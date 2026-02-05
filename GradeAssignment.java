@@ -1,19 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * GradeAssignment
- *
- * A beginner-friendly Java program demonstrating control flow:
- * - if-else statements to assign letter grades
- * - switch-case to show category messages
- * - while loop to process multiple students
- * - continue to skip invalid marks
- * - break to exit early with sentinel (-1)
- * - basic error handling for non-integer input
- *
- * Run with: javac GradeAssignment.java && java GradeAssignment
- */
+
 public class GradeAssignment {
 
     public static void main(String[] args) {
